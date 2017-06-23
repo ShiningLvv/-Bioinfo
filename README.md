@@ -1,6 +1,6 @@
 Run and Usage
     make
-    usage: ./SVfeature -D -b test.list or ./SVfeature -D -e 0.5 -m 1000 -b test.list
+    usage: ./DelFeature -D -b test.list or ./DelFeature -D -e 0.5 -m 1000 -b test.list
 
 Note
     Need bai for each bam
